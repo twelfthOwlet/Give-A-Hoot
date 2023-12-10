@@ -1,0 +1,260 @@
+>>> TryHackMe Profile under username swAnon: https://tryhackme.com/p/swAnon <<<
+    ***********************************************************************
+
+# List of Holiday Hack Events and Corresponding Areas of Cyber Experienced since 2020.
+
+***************************************************
+#2023 Advent of Cyber
+---------------------
+--Day 1: Machine Learning
+        ---> Natural Language Processing(NLP), prompt-injection
+            --> Tools: Social Engineering the AI bot
+
+--Day 2: Log Analysis
+        ---> Data Science, Python
+            --> Tools: Jupyter Notebook, Matplotlib, Pandas
+
+--Day 3 and Day 4: Brute-forcing
+        ---> Online password brute forcing, Wordlist generation
+            --> Tools: CeWL, Hydra, wfuzz
+
+--Day 5: Reverse Engineering
+        ---> Command prompt, File signatures, Magic bytes
+            --> Hex-to-ASCII converter, MS-DOS
+
+--Day 6: Memory Corruption
+        ---> Buffer overflow
+            --> Tools: Hex-to-ASCII converter
+
+--Day 7: More Log Analysis
+        ---> Linux commands, Proxy logs
+            --> Tools: log parsing commands
+
+--Day 8: Disk Forensics
+        ---> Analyse artefacts/evidence, Recovery, Verification
+            --> Tools: FTK Imager
+
+--Day 9: Malware Analysis
+        ---> .NET binaries, Analyse malware/sourcecode, C# programming, Command and Control
+            --> Tools: C#, dnSpy
+
+--Day 10: 
+        --->
+            --> Tools: 
+
+--Day 11: 
+        ---> 
+            --> Tools: 
+
+--Day 12:
+        --->
+            --> Tools: 
+
+--Day 13: 
+        --->
+            --> Tools: 
+
+--Day 14:
+        --->
+            --> Tools: 
+
+--Day 15:
+        --->
+            --> Tools: 
+
+--Day 16:
+        --->
+            --> Tools: 
+
+--Day 17:
+        --->
+            --> Tools: 
+
+--Day 18:
+        --->
+            --> Tools: 
+
+--Day 19:
+        --->
+            --> Tools: 
+
+--Day 20:
+        --->
+            --> Tools: 
+
+--Day 21:
+        --->
+            --> Tools: 
+
+--Day 22:
+        --->
+            --> Tools: 
+
+--Day 23:
+        --->
+            --> Tools: 
+
+* * * * * * * * * * * * * * * * *
+#2023 Advent of Cyber Side Quest
+--------------------------------
+--Ongoing-- No hints allowed.
+
+***************************************************
+#2022 Advent of Cyber
+---------------------
+--Day 1: Framworks
+        ---> Cyber Kill Chain, ISO 27000 Series, MITRE ATT&CK, NIST Cybersecurity, Unified Kill Chain
+            --> Tools: MITRE Website
+
+--Day 2: Log Analysis
+        ---> Analysis with Linux, Log Locations, Usefulness
+            --> Tools: bash commandline, Log parsing commands, Ubuntu Linux
+
+--Day 3: OSINT
+        ---> Breached db search, Github Repos, OSINT Techniques, robots.txt
+            --> Tools: Browser, Github, Google dorks, haveibeenpwned.com, Whois
+
+--Day 4: Scanning
+        ---> Active/Passive, Network, Port, Vulnerability
+            --> Tools: Nikto, Nmap
+
+--Day 5: Brute-Forcing
+        ---> Authentication, Brute-Force passwords, Remote Access Services(RDP, SSH, VNC)
+            --> Tools: Hydra, Remmina
+
+--Day 6: Email Analysis
+        ---> OSINT, Performance issues, Phishing, Security issues, Social Engineering
+            --> Tools: Browslering, emailrep.io, emlAnalyzer, InQuest, IPinfo.io, Sublime Text, Talos Reputation, Urlscan.io, VirusTotal, Wannabrowser
+
+--Day 7: CyberChef
+        ---> Analyse, Capabilities, Deobfuscation
+            -->Tools: Base-decoding, Patterns, Strings, Unicode, URLs
+
+--Day 8: Smart Contracts
+        ---> Blockchain, Re-entrancy Attack, Vulnerabilities
+            --> Tools: Remix IDE
+
+--Day 9: Pivoting
+        ---> Docker, Network Pivoting, Post Exploitation
+            -->  Tools: Metasploit, Socks Proxy
+
+--Day 10: Hack a Game
+        ---> Buffer overflow, Memory
+            --> Tools: Cetus browser plugin, Developer tools
+
+--Day 11: MemoryForensics
+        ---> Analyse memory
+            --> Tools: Python3, Volatility
+
+--Day 12: Malware Analysis
+        ---> Analyse malware(no sandbox), Dynamic and Static Analysis 
+            --> Tools: CAPA, Detect it Easy(DIE), ProcMon
+
+--Day 13: Packet Analysis
+        ---> Traffic analysis fundamentals, Pattern recognition, PCAPs
+            --> Tools: Wireshark
+
+--Day 14: Web Applications
+        ---> Access Control, IDOR, OWASP, Vulnerabilities
+            --> Tools: Web Browser
+
+--Day 15 through Day 17: Secure Coding
+        ---> CSRF, File Uploads, Input Validation, MySQL, SQL, SQLi, XSS
+            --> Tools: HTML5, Metasploit, msfvenom, php, regex
+
+--Day 18: Sigma
+        ---> IOCs, Log Events, Threat Detection
+            --> Tools: yaml
+
+--Day 19: Hardware Hacking
+        ---> Digital signal generation, I2C, Logic Probe, SPI, USART 
+            --> Tools: Saleae
+
+--Day 20: Firmware
+        ---> Extraction and Modification, Reverse Engineering, Side Channel Attacks(SCA), Static and Dynamic Analysis
+            --> Tools: BinWalk, Firmware ModKit(FMK), Firmwalker, Gnu DeBugger(GDB), Qemu
+
+--Day 21: MQTT
+        ---> IoT Protocol, Messaging Protocols(MQTT, CoAP, AMQP, DDS, HTTP, WebSocket), Network service protcol, Publisher/Subscribe Model
+            --> Tools: Docker, Nmap, Python, rtsp-simple-server
+
+--Day 22: Attack Surface Reduction
+        ---> Vectors
+            --> Tools: Find the weaknesses and reduce the surface, if possibe.
+
+--Day 23: Defence in Depth
+        ---> Contrast past events, Core mindset, Disrupt adversarial objectives
+            --> Tools: layer defense to protect assets-- make it as inefficient as possible for the adversary, make their progress a risky venture.
+
+***************************************************
+#2021 Advent of Cyber
+---------------------
+--Day 1 through Day 7: Web Exploitation
+        ---> Authentication Bypass, Content Discovery, Cookie Manipulation, Cookies, Fuzzing, HTTP(S), IDOR exploitation, LFI, NoSQL, NoSQLi, XSS(Blind, DOM, Reflected, Stored)
+            --> Tools: BurpSuite, dirb, Firefox Browser, FoxyProxy, mongodb, json, php, Web browser
+
+--Day 8: John Hammond Special
+        ---> Powershell Transciption Logs
+            --> Tools: CyberChef, LOLbin, powershell, Shellbags
+
+--Day 9 through Day 14: Networking
+        ---> Berkeley Packet Filters(BPF), CI/CD, DNS, FTP, IP Addresses, NFS, Packet Analysis, Ports, Privilege Escalation, Protocols, Servers, SQL
+            --> Tools: netcat, Nmap, Wireshark, wmic
+
+--Day 15: Cyber Careers
+        ---> Quiz and success stories.
+            --> Tools: none
+
+--Day 16: OSINT
+        ---> Account Discovery, Digital footprint, OSINT Processes(RIS, RIS OSINT Roller Coaster)
+            --> Tools: Blockchain, Clearnet websites(FB, Twitter(X), GitHub, etc), Dorking
+
+--Day 17 and Day 18: Cloud
+        ---> AWS, Buckets, IAM, S3
+            --> Tools: AWS cli, docker, jq, remnux
+
+--Day 19 through Day 23: Blue Teaming
+        ---> File Analysis, Magic Headers, Phishing, Truth Tables
+            --> Tools: CyberChef, MITRE, Oledump, Powershell, Python, remnux, strings, VirusTotal, XOR, Yara
+
+--Day 24: Post Exploitation
+        ---> Windows passwords, LAN Manager, LSASS process, NT LAN Manager, password hashes
+            --> Tools: john the ripper, mimikatz
+
+*************************************************
+#2020 Advent of Cyber
+---------------------
+--Day 1 through Day 6: Web Exploitation  
+        --->  Authentication, Cookies, CSS, DNS, File Uploads, Fuzzing, GET/POST, HackerOne Reports, HTTP(S), Reverse Shells/Listeners, SQL Injection, XSS 
+            --> Tools: BurpSuite, Chrome Developer Tools, Gobuster, netcat, OWASP Zap, sqlmap, wfuzz 
+
+--Day 7 through Day 12: Networking
+        --->  FTP, Host Discovery, IP/TCP/UDP, IP Addresses, Monitoring Network Traffic, NFS, Privilege Escalation, Protocols, SAMBA, SMB, SUIDs, TCP Scanning, Vulnerability Discovery, Wireshark Filters
+            -->  Tools: bash, DVWA, enum4linux, Ethereal, GTFOBins, LinEnum, Metasploit, Nano, netcat, Nmap, python, smbclient, wget, Wireshark
+
+--Day 13: John Hammond Special
+        --->  Enumeration, Initial access, Port and service scanning, Privilege Escalation
+            -->  Tools: C, gcc, netcat, Nmap
+
+--Day 14: CyberMentor Special
+        --->  Breach Data, OSINT, reverse image search
+            -->  Tools: github.com/WebBreacher/WhatsMyName and github.com/sherlock-project/sherlock, haveibeenpwned.com, namecheckup.com, namechk.com, scylla.so, tineye.com, whatsmyname.app, yandex.com/images
+
+--Day 15 and 16: Scripting
+        --->  api hacking, OSINT, python programming and scripting basics
+            -->  Tools: pip3, Python3
+
+--Day 17 and 18: Reverse Engineering
+        --->  .NET Framework, x86-64 Assembly
+            -->  Tools: ILSpy, radare2, Remmina
+
+--Day 19: Tib3rius Special
+        --->  RFI, SSRF, Web app hacking
+            -->  Tools: Browser for URL hacking
+
+--Day 20 through Day 23: Blue Teaming
+        --->  ADS, CyberChef usage, Malware(RansomWare), Powershell usage
+            --> Tools: CyberChef, PowerShell, ssh, wmic
+
+--Day 24: DarkStar Special
+        --->  Culmination of the Advent event education and tools
