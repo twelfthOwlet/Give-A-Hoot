@@ -38,9 +38,9 @@
         ---> .NET binaries, Analyse malware/sourcecode, C# programming, Command and Control
             --> Tools: C#, dnSpy
 
---Day 10: 
-        --->
-            --> Tools: 
+--Day 10: SQL Injection
+        ---> PDO, RCE, SQL Basics, SQLi
+            --> Tools: msfvenom, netcat, php, python
 
 --Day 11: 
         ---> 
