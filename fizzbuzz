@@ -1,0 +1,45 @@
+'''
+Python Fizzbuzz:
+                range to number 100
+                num div 3, print fizz 
+                num div 5, print buzz 
+                num div by both 3 and 5, print fizzbuzz
+'''
+
+# My attempt at fizzbuzz
+
+# Create variables for fizzbuzz variants.
+#----------------------------------------
+fz = "fizz"
+bz = "buzz"
+fb = "fizzbuzz"
+
+# Iterate through 100 and search for divisible numbers.
+# Append correct variant to divisible numbers.
+#-----------------------------------------------------
+for num in range(1, 100):
+    if num % 3 == 0 and num % 5 == 0:
+        print(str(num) + " " + (fb))
+    elif num % 3 == 0:
+        print(str(num) + " " + (fz))
+    elif num % 5 == 0:
+        print(str(num) + " " + (bz))
+        
+    else:
+        print(num)
+        
+################################################
+
+# Easier fizzbuzz answer
+#-----------------------
+for num in range(1,100):
+    if num % 3 == 0 and num % 5 == 0:
+        print("fizzbuzz")
+    elif num % 3 == 0:
+        print("fizz")
+    elif num % 5 == 0:
+        print("buzz")
+    
+    else:
+        print(num)
+
