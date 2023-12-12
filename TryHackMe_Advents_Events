@@ -42,9 +42,9 @@
         ---> PDO, RCE, SQL Basics, SQLi
             --> Tools: msfvenom, netcat, php, python
 
---Day 11: 
-        ---> 
-            --> Tools: 
+--Day 11: Active Directory
+        ---> public/private cryptography, TPM, Windows Hello for Business(WHfB)
+            --> Tools: Rubeus, Whisker
 
 --Day 12:
         --->
