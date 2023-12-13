@@ -46,9 +46,9 @@
         ---> public/private cryptography, TPM, Windows Hello for Business(WHfB)
             --> Tools: Rubeus, Whisker
 
---Day 12:
-        --->
-            --> Tools: 
+--Day 12: Defence in depth
+        ---> Boot2Root Methodology, Defence in depth, Endpoint hardening, Webshell spawning, Zero Trust
+            --> Tools: Netcat, Jenkins, SSH, Ubuntu
 
 --Day 13: 
         --->
