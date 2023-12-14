@@ -50,9 +50,9 @@
         ---> Boot2Root Methodology, Defence in depth, Endpoint hardening, Webshell spawning, Zero Trust
             --> Tools: Netcat, Jenkins, SSH, Ubuntu
 
---Day 13: 
-        --->
-            --> Tools: 
+--Day 13: Intrusion Detection
+        --->  Firewall rules, Honeypot, Threat Hunting, Vulnerability Mgmt
+            --> Tools: Diamond Model, pentbox, ufw
 
 --Day 14:
         --->
