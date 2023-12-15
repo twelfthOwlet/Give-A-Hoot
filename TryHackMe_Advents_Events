@@ -15,7 +15,7 @@
             --> Tools: Jupyter Notebook, Matplotlib, Pandas
 
 --Day 3 and Day 4: Brute-forcing
-        ---> Online password brute forcing, Wordlist generation
+        ---> Online password brute forcing, wordlist generation
             --> Tools: CeWL, Hydra, wfuzz
 
 --Day 5: Reverse Engineering
@@ -31,11 +31,11 @@
             --> Tools: log parsing commands
 
 --Day 8: Disk Forensics
-        ---> Analyse artefacts/evidence, Recovery, Verification
+        ---> Analyze artefacts/evidence, Recovery, Verification
             --> Tools: FTK Imager
 
 --Day 9: Malware Analysis
-        ---> .NET binaries, Analyse malware/sourcecode, C# programming, Command and Control
+        ---> .NET binaries, Analyze malware/sourcecode, C# programming, Command and Control
             --> Tools: C#, dnSpy
 
 --Day 10: SQL Injection
@@ -46,17 +46,17 @@
         ---> public/private cryptography, TPM, Windows Hello for Business(WHfB)
             --> Tools: Rubeus, Whisker
 
---Day 12: Defence in depth
-        ---> Boot2Root Methodology, Defence in depth, Endpoint hardening, Webshell spawning, Zero Trust
+--Day 12: Defense in depth
+        ---> Boot2Root Methodology, Defense in depth, Endpoint hardening, Webshell spawning, Zero Trust
             --> Tools: Netcat, Jenkins, SSH, Ubuntu
 
 --Day 13: Intrusion Detection
         --->  Firewall rules, Honeypot, Threat Hunting, Vulnerability Mgmt
             --> Tools: Diamond Model, pentbox, ufw
 
---Day 14:
-        --->
-            --> Tools: 
+--Day 14: Machine Learning
+        ---> ML Algorithms, Neural networks, Supervised and Unsupervised learning
+            --> Tools: Numpy, Pandas, Scikit-learn
 
 --Day 15:
         --->
