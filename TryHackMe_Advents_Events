@@ -58,13 +58,13 @@
         ---> ML Algorithms, Neural networks, Supervised and Unsupervised learning
             --> Tools: Numpy, Pandas, Scikit-learn
 
---Day 15: More Machine Learning
+--Day 15: More Machine Learning(Blue Team)
         ---> Phishing, Spam
             --> Tools: Jupyter Notebook, Numpy, Pandas, Scikit-learn
 
---Day 16:
-        --->
-            --> Tools: 
+--Day 16: More Machine Learning(Red Team)
+        ---> CAPTCHA(22), Convolutional Neural Networks(CNN)
+            --> Tools: Attention OCR, docker, TensorFlow
 
 --Day 17:
         --->
