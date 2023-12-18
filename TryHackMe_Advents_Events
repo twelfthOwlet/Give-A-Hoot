@@ -66,9 +66,9 @@
         ---> CAPTCHA(22), Convolutional Neural Networks(CNN)
             --> Tools: Attention OCR, docker, TensorFlow
 
---Day 17:
-        --->
-            --> Tools: 
+--Day 17: Traffic Analysis
+        ---> C2, flows, pcaps
+            --> Tools: rw(commands), SiLK, Wireshark
 
 --Day 18:
         --->
