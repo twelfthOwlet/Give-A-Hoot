@@ -70,9 +70,9 @@
         ---> C2, flows, pcaps
             --> Tools: rw(commands), SiLK, Wireshark
 
---Day 18:
-        --->
-            --> Tools: 
+--Day 18: Eradication
+        ---> Forensics, Linux processes, Persistence, Ubuntu
+            --> Tools: Linux command tools, top
 
 --Day 19:
         --->
