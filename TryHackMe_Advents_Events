@@ -74,9 +74,9 @@
         ---> Forensics, Linux processes, Persistence, Ubuntu
             --> Tools: Linux command tools, top
 
---Day 19:
-        --->
-            --> Tools: 
+--Day 19: Memory Forensics
+        ---> Memory dump
+            --> Tools: Volatility
 
 --Day 20:
         --->
