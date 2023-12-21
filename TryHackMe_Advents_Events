@@ -78,9 +78,9 @@
         ---> Memory dump
             --> Tools: Volatility
 
---Day 20:
-        --->
-            --> Tools: 
+--Day 20: DevSecOps
+        ---> CI/CD, Gitlab, Poisoned Pipeline Execution(PPE), SSDLC
+            --> Tools: DAST/SAST through Giblab, git
 
 --Day 21:
         --->
