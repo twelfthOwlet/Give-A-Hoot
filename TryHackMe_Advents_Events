@@ -82,11 +82,11 @@
         ---> CI/CD, Gitlab, Poisoned Pipeline Execution(PPE), SSDLC
             --> Tools: DAST/SAST through Giblab, git
 
---Day 21:
-        --->
-            --> Tools: 
+--Day 21: More DevSecOps
+        ---> CI/CD, Jenkins, Poisoned Pipeline Execution(PPE)
+            --> Tools: git, Gitea platform
 
---Day 22:
+--Day 22: 
         --->
             --> Tools: 
 
