@@ -90,9 +90,9 @@
         ---> API, C2
             --> Tools: php
 
---Day 23:
-        --->
-            --> Tools: 
+--Day 23: Coerced Authentication
+        ---> NTLM Authentication, PetitPotam, PrinterSpooler, SMB
+            --> Tools: ntlm_theft, Responder
 
 * * * * * * * * * * * * * * * * *
 #2023 Advent of Cyber Side Quest
