@@ -86,9 +86,9 @@
         ---> CI/CD, Jenkins, Poisoned Pipeline Execution(PPE)
             --> Tools: git, Gitea platform
 
---Day 22: 
-        --->
-            --> Tools: 
+--Day 22: SSRF
+        ---> API, C2
+            --> Tools: php
 
 --Day 23:
         --->
