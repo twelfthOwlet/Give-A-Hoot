@@ -14,9 +14,11 @@ Dec 2023<br>
   --> First time experiencing the do-release-upgrade command.  
       **Thanks to: https://ubuntu.com/server/docs/upgrade-introduction <br>
   --> Choice between sddm and lightdm.  lightdm chosen.
-  --> Upgrade to firefox snap?  hmm.  No choice?  ok.  
+  --> Upgrade to firefox snap?  hmm.  No choice?  ok. 
+  --> Completed upgrade: ~2 hours
   <br>
 </pre>
+
 #### TO DO:
 - [ ] Learn Git and Github- get acclimated to markdown
 - [ ] Create SANS Holiday Hack Challenge roadmap 2020-23 (Long project)
