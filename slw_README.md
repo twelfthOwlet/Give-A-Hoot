@@ -13,7 +13,7 @@ Dec 2023<br>
 -> Updating Ubuntu Studio VM from 20.04 to 22.04 from command line.  
   --> First time experiencing the do-release-upgrade command.  Thanks to: https://ubuntu.com/server/docs/upgrade-introduction
   --> Choice between sddm and lightdm.  lightdm chosen.
-  
+  --> Upgrade to firefox snap?  hmm.  No choice?  ok.  
   <br>
 
 #### TO DO:
