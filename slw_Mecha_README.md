@@ -1,4 +1,4 @@
-December 2023
+December 2023; Completed due to weather break in February 2024
 <pre> 
 Plan: Replace alternator, replace PCV Valve, replace mounting bolts, bypass AC Compressor
 
@@ -25,5 +25,35 @@ Alternator extraction procedure.  **pulled battery and charged it, otherwise, di
                   Part No.: 95701-08055-08  Bolt, Flange (8X55)
               Belt is normally 69.5", 7 rib.  Research suggests K070553 belt "should" work for AC bypass
               K070553 on order(55 13/16")
-              Beck/Arnley PCV Valve on order
+              Beck/Arnley PCV Valve on order 
+       
+Feb 4: Completed repairs thanks to a break in the weather.  No issues with belt and larger alt pulley.
+</pre>
+
+February 2024: Found oil leak and tailpipe separated from muffler
+<pre>
+Discovery:  Closer inspection of oil leak shows oil pan had rusted through: needs replaced.
+            When raising the vehicle, found tailpipe hanging by rubber hanger.
+            Closer inspection of tailpipe connection, looks like it slipped from clamps, but severely rusted.
+
+Plan:  Replace the oil pan, oil, oil filter, and take to a muffler shop for further tailpipe choices. 
+
+Parts:  Oil pan, gasket material(Specific RTV), oil, oil filter(oil pan bolts, studs[flattened a stud already,lol])   
+
+Feb 12:
+       - I am using a Youtube video from TRX rather than the service manual
+       - Lowering the subframe: need 4 pull jacks
+       - oil pan uses an RTX seal, but may use an aftermarket gasket depending on thickness.
+       - oil pan bolts are not all the same
+       - oil pan has two studs
+
+-- Supported the vehicle with 4 jack stands in proper locations.
+-- Removed the front wheels for visibility and possibly different angles to work
+-- Unseated oil dip stick and fill cap
+-- Drained oil and removed oil filter
+-- Started process of breaking bolts loose on oil pan
+-- One stud nut came loose, the other pulled the stud out: attempted to break nut from stud. 
+       Flattened threads while doing it.  Need another stud.  Figured I would track bolts down for purchase.
+-- Created a template of oil pan to place bolts in proper location as I wait for tools and parts.       
+       
 </pre>
