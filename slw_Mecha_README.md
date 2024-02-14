@@ -40,20 +40,36 @@ Plan:  Replace the oil pan, oil, oil filter, and take to a muffler shop for furt
 
 Parts:  Oil pan, gasket material(Specific RTV), oil, oil filter(oil pan bolts, studs[flattened a stud already,lol])   
 
+Note: Sub-frame and most the under-carriage on drivers side is pretty rusted.  Will probably be in my best interest
+       to look for another beater for Winter transportation.
 Feb 12:
-       - I am using a Youtube video from TRX rather than the service manual
+       - I am using a Youtube video from TRQ rather than the service manual
        - Lowering the subframe: need 4 pull jacks
-       - oil pan uses an RTX seal, but may use an aftermarket gasket depending on thickness.
-       - oil pan bolts are not all the same
+       - oil pan uses an RTX seal, but I may use an aftermarket gasket depending on thickness.
+       - oil pan bolts are not all the same: Found 3 bolts holding oil pan at crankshaft area are different.
        - oil pan has two studs
-
+       - oil pan bolts: 11 are the same, as long as you know where the studs go, the difference is minimal.
+       
 -- Supported the vehicle with 4 jack stands in proper locations.
 -- Removed the front wheels for visibility and possibly different angles to work
+-- Removed the spash shield
 -- Unseated oil dip stick and fill cap
 -- Drained oil and removed oil filter
 -- Started process of breaking bolts loose on oil pan
 -- One stud nut came loose, the other pulled the stud out: attempted to break nut from stud. 
        Flattened threads while doing it.  Need another stud.  Figured I would track bolts down for purchase.
--- Created a template of oil pan to place bolts in proper location as I wait for tools and parts.       
+-- Created a template of oil pan to place bolts in proper location as I wait for tools and parts. 
+-- Placed pull jacks in three locations in connection to sub-frame- two on flat areas near the back and one under front
+-- Broke free the front motor mount bolt(17mm)- has a capture nut on other side.  Use PB Blaster or comparable to remove bolt
+-- Advise PB Blast'ing the 4 sub-frame bolts in a break free, squirt, run it back up and then back down
+-- Advised to bring down a finger width for each of the 4 17mm bolts in sub-frame corners
+-- Removed the 10mm bolts from the oil pan.
+-- Broke the seal on the oil pan-- not the kosher way, but used a pry bar on the oil pan edge exposed to get a gap.
+       Then used a small, flat nail-puller/scraper/pry bar to separate the pan.  Pan did not drop past the sub-frame.
+-- Remember gravity and vibration are not your friends, as rust dropped past my safety glasses and into my eye.  
+       Feeling stupid.  **Waiting on face shield.
+-- *Looks like next step is to pull the two front sub-frame bolts out since oil pan did not drop, and pry the sub-frame 
+       down to get the oil pan to drop.*
+
        
 </pre>
