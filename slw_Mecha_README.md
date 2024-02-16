@@ -36,16 +36,17 @@ Discovery:  Closer inspection of oil leak shows oil pan had rusted through: need
             When raising the vehicle, found tailpipe hanging by rubber hanger.
             Closer inspection of tailpipe connection, looks like it slipped from clamps, but severely rusted.
 
-Plan:  Replace the oil pan, oil, oil filter, and take to a muffler shop for further tailpipe choices. 
+Plan:  Replace the oil pan, oil, oil filter, and fix tailpipe. 
 
-Parts:  Oil pan, gasket material(Specific RTV), oil, oil filter(oil pan bolts, studs[flattened a stud already,lol])   
+Parts:  Oil pan, gasket material(Specific RTV but found an actual paper gasket too), oil, oil filter(oil pan bolts,
+       studs[flattened a stud already,lol]), piece of flex pipe, and 2 2.125 exhaust clamps.
 
 Note: Sub-frame and most the under-carriage on drivers side is pretty rusted.  Will probably be in my best interest
        to look for another beater for Winter transportation.
 Feb 12:
-       - I am using a Youtube video from TRQ rather than the service manual
+       - I am using a Youtube video from TRQ for oil pan rather than the service manual
        - Lowering the subframe: need 4 pull jacks
-       - oil pan uses an RTX seal, but I may use an aftermarket gasket depending on thickness.
+       - oil pan uses an Hondabond seal, but I may use an aftermarket gasket depending on thickness.
        - oil pan bolts are not all the same: Found 3 bolts holding oil pan at crankshaft area are different.
        - oil pan has two studs
        - oil pan bolts: 11 are the same, as long as you know where the studs go, the difference is minimal.
@@ -70,6 +71,21 @@ Feb 12:
        Feeling stupid.  **Waiting on face shield.
 -- *Looks like next step is to pull the two front sub-frame bolts out since oil pan did not drop, and pry the sub-frame 
        down to get the oil pan to drop.*
-
-       
+-- Had to remove the two front sub-frame bolts and use a prybar to remove the oil pan.
+-- Scraped old gasket material from mating surface with razor blade and used a scotchpad to clean the surface.
+-- Installed a new stud.  Pried sub-frame down to get oil pan past sub-frame.
+-- Installed oil pan with a bottom layer of Hondabond to hold gasket in place.  Advise securing and torquing pan bolts while
+       sub-frame is lowered(8.7 ftlb/12 Nm).  Tightening in recommended pattern is advised.
+-- Made sure drain plug was secure.  Installed new oil filter and added oil to check for simple leaks.
+-- Reinstalled front sub-frame bolts.  Tightened all sub-frame bolts to ~78 ftlb.  Installed motor mount bolt.  
+       Checked alignment of engine mount bolt to capture nut- it is off.
+-- Lowered all sub-frame bolts a finger-width down again.  Found capture nut moves, lol. While fiddling with the nut, it popped
+       out and landed in the dual fan assembly, lol. Reinstalled nut and again attempted to align bolt to captured nut.
+-- Raised the front sub-frame bolts and it seemed to align for me.  Tightened the engine mount bolt to about 47 ftlbs.
+-- Tightened and torqued all sub-fram bolts.
+-- Started vehicle, check for pressurized leaks.
+-- Installed splash shield.  Put front wheels back on, torqued them.  Removed all jack stands.  
+-- Take two: Backed vehicle up on ramps.  Tailpipe separated from muffler pipe.  After knocking off all the rust on the clamps,
+       the clamps fell apart.  Chiseled off the sleeve material, installed flex pipe, and clamped it down.
+-- Test drove vehicle for ~30 miles, retorqued front wheels, and no issues occurred.  Completed: Feb 16, 2024.       
 </pre>
