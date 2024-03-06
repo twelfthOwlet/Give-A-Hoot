@@ -1,7 +1,12 @@
 #### Updates, Issues, and Fixes - A diary of experiences, fixes, methods, etc.
 
-December 2023:
-<pre> Maintenance stuff:  https://github.com/twelfthOwlet/Give-A-Hoot/blob/main/slw_Mecha_README.md </pre>
+
+<pre>
+ Maintenance stuff:  https://github.com/twelfthOwlet/Give-A-Hoot/blob/main/slw_Automobile_README.md 
+                     https://github.com/twelfthOwlet/Give-A-Hoot/blob/main/slw_Bicycle_Rebuild_README.md    
+</pre>
+
+December 2023
 
 ###### Ubuntu Monitor Yellow Tint 
 <pre> 
