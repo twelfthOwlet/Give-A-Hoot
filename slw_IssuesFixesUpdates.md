@@ -1,51 +1,38 @@
-#### Updates, Issues, and Fixes - A diary of experiences, fixes, methods, etc.
+# Updates, Issues, and Fixes
+A running diary of troubleshooting, configurations, and field methods.
 
+## Quick Links
+- [Automotive Maintenance Log](slw_Automobile_README.md)
+- [Bicycle Rebuild Log](slw_Bicycle_Rebuild_README.md)
 
-<pre>
- Maintenance stuff:  https://github.com/twelfthOwlet/Give-A-Hoot/blob/main/slw_Automobile_README.md 
-                     https://github.com/twelfthOwlet/Give-A-Hoot/blob/main/slw_Bicycle_Rebuild_README.md    
-</pre>
+---
 
-December 2023
+## December 2023
 
-###### Ubuntu Monitor Yellow Tint 
-<pre> 
- -> Most Recent: OS Ubuntu 22.04.3: Yellow tint after installing 2nd monitor.  
-  --> Found incorrect video driver auto-installed.  Installed correct Nvidia driver package 
-       to correct yellow coloration.  Version not stated to prevent compatibility issues.
-</pre>  
-###### Ubuntu Studio VM Upgrade
-<pre>
--> Updating Ubuntu Studio VM from 20.04 to 22.04 from command line.  
-  --> First time experiencing the do-release-upgrade command.  
-      **Thanks to: https://ubuntu.com/server/docs/upgrade-introduction 
+### Ubuntu 22.04.3: Yellow Tint After 2nd Monitor Install
+- **The Issue:** Yellow color distortion appeared immediately after adding a second display.
+- **The Fix:** Identified that an incorrect video driver had auto-installed. Installed the correct Nvidia driver package to resolve the coloration issue. *(Version omitted to prevent compatibility reference confusion).*
 
-  --> Choice between sddm and lightdm.  lightdm chosen.
-  --> Upgrade to firefox snap?  hmm.  No choice?  ok. 
-  --> Completed upgrade: ~2 hours
-</pre>
+### Ubuntu Studio VM Upgrade (20.04 to 22.04)
+- **Objective:** Command-line upgrade experience.
+- **Reference:** [Ubuntu Server Upgrade Documentation](https://ubuntu.com/server/docs/upgrade-introduction)
+- **Key Takeaways:**
+  - Encountered prompt between `sddm` and `lightdm` — selected `lightdm`.
+  - Firefox bundled as a snap package (forced migration).
+  - Total upgrade time: ~2 hours.
 
-###### Redhat/CentOS7 VM and SSH Issue (Reminder: CentOS 7 EOL June 30,2024)
-<pre>
- Dec 26, 2023: Installed Redhat Enterprise 9 w/no issues into VirtualBox. SSH and IP assignment issue.
-   -- No network communication between RH Guest and Host but can access web. 
-   -- VM Manager has own DHCP server.  Default IP assigned and NAT-ted.
-   -- Changed IP address, net mask, etc.  Could ping host/web, but no ping from host.
-   -- Forgot to bridge the network adapter rather than use NAT.
-   -- ssh'd in, no issue.
+### RedHat / CentOS 7 VM & SSH Troubleshooting
+*(Note: CentOS 7 EOL reached June 30, 2024)*
 
- Dec 27, 2023: Decided to use CentOS 7 instead. Deleted RH9 from VM. SSH issue again, as suspected.
-   -- Since this was a minimum install, configured everything for Guest network via config files through vi.
-   -- Applied lessons learned from day before- bridged the adapter.  
-   -- Installed net-tools to check if port 22 is open and for routing information
-   -- Open.  Attempt to log into ssh and Host complains of a different remote host attached to IP address.
-   -- Doh.  Yeah, the RH install, lol. Had to:
-      -> ssh-keygen -f "/home/user/.ssh/known_hosts" -R "xxx.xx.x.xx"
-   -- Logged into Guest through ssh.
-</pre>
-<pre>
-   -- Found SMTP port open??? Perhaps for rsyslog?
-   -- Installed nc(nmap version) and attempted connection to make sure it is live-- yep.
-   -- Checked services(systemctl) for a relation to smtp, nothing seen or grepped.
-   -- Out of time today but this is giving me some re-education of Linux commands on RH-based OS. 
-</pre>
+#### Dec 26, 2023: RHEL 9 Initial Setup
+- Installed RHEL 9 minimum into VirtualBox. Encountered network isolation: guest could access the web, but no ping communication between host and guest.
+- **Cause:** Left network adapter on default NAT (VirtualBox internal DHCP) instead of bridging.
+- **Resolution:** Bridged the adapter and successfully established SSH.
+
+#### Dec 27, 2023: CentOS 7 Pivot
+- Replaced RHEL 9 with CentOS 7 minimum install. Configured guest network adapters manually via `vi`.
+- Applied lessons learned: immediately bridged the network adapter and installed `net-tools` for port and routing verification.
+- **The SSH Host Conflict:** Port 22 was open, but connection failed because the host complained about a conflicting remote host fingerprint for the IP address (leftover from the RHEL 9 test).
+- **The Fix:** Cleared the old key using:
+  ```bash
+  ssh-keygen -f "/home/user/.ssh/known_hosts" -R "xxx.xx.x.xx"
