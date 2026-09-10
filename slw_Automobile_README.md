@@ -1,91 +1,77 @@
-December 2023; Completed due to weather break in February 2024
-<pre> 
-Plan: Replace alternator, replace PCV Valve, replace mounting bolts, bypass AC Compressor
+# Vehicle Maintenance Log: Winter 2023–2024
 
-Parts: Aftermarket alternator, PCV Valve, suitable serpentine belt, 
-       mounting bolts for alternator, power steering pump mounting bolts, zip ties
-  
-Dec 25: 
-Alternator extraction procedure.  **pulled battery and charged it, otherwise, disconnect from circuit.
- -- Used long(~14.5") 14mm closed, ratcheting wrench on tensioner bolt to pull serpentine belt off ps pump
- -- Remove the top black plastic divider protecting radiator/fan: should be fastened by snap pins(removal tool is advised)
- -- Remove both brackets holding cooling fan for accessibility(10mm)
- -- Remove overflow container for accessibility(had black zip tie holding it)
- -- Remove power steering pump mounting bolts and push aside(12mm)
- -- Unplug main plastic alternator connector(Use caution using channel locks)
- -- Use fingers to put socket on lower, driverside alternator mounting bolt head and then rachet off(12mm)
- -- Use 4" extension, if needed, and socket for passengerside, lower alternator bolt(12mm)
- -- Remove last alternator bolt(12mm)
- -- Pull alternator out a bit, pull off rubber boot to get to 10mm nut and take it off to remove the alternator.
-        *Notes:
-              Pulley on new alternator 2.5" dia., old 2" dia. 
-              2 bolts for power steering pump on order: 
-                  Part No.: 95701-08045-08  Bolt, Flange (8X45)
-              2 lower bolts for alternator on order:
-                  Part No.: 95701-08055-08  Bolt, Flange (8X55)
-              Belt is normally 69.5", 7 rib.  Research suggests K070553 belt "should" work for AC bypass
-              K070553 on order(55 13/16")
-              Beck/Arnley PCV Valve on order 
-       
-Feb 4: Completed repairs thanks to a break in the weather.  No issues with belt and larger alt pulley.
-</pre>
+---
 
-February 2024: Found oil leak and tailpipe separated from muffler
-<pre>
-Discovery:  Closer inspection of oil leak shows oil pan had rusted through: needs replaced.
-            When raising the vehicle, found tailpipe hanging by rubber hanger.
-            Closer inspection of tailpipe connection, looks like it slipped from clamps, but severely rusted.
+## Project 1: Alternator & AC Bypass
+**Timeline:** Started December 2023 | Completed February 4, 2024 (delayed due to weather)
 
-Plan:  Replace the oil pan, oil, oil filter, and fix tailpipe. 
+### Plan & Parts
+- **Plan:** Replace alternator, replace PCV valve, replace mounting bolts, and bypass the AC compressor.
+- **Parts List:** Aftermarket alternator, PCV Valve (Beck/Arnley), serpentine belt (`K070553`), alternator mounting bolts, power steering pump mounting bolts, and zip ties.
 
-Parts:  Oil pan, gasket material(Specific RTV but found an actual paper gasket too), oil, oil filter(oil pan bolts,
-       studs[flattened a stud already,lol]), piece of flex pipe, and 2 2.125 exhaust clamps.
+### Alternator Extraction Procedure
+> **Safety Note:** Disconnect or pull and charge the battery before working on the circuit.
 
-Note: Sub-frame and most the under-carriage on drivers side is pretty rusted.  Will probably be in my best interest
-       to look for another beater for Winter transportation.
-Feb 12:
-       - I am using a Youtube video from TRQ for oil pan rather than the service manual
-       - Lowering the subframe: need 4 pull jacks
-       - oil pan uses an Hondabond seal, but I may use an aftermarket gasket depending on thickness.
-       - oil pan bolts are not all the same: Found 3 bolts holding oil pan at crankshaft area are different.
-       - oil pan has two studs
-       - oil pan bolts: 11 are the same, as long as you know where the studs go, the difference is minimal.
-       
--- Supported the vehicle with 4 jack stands in proper locations.
--- Removed the front wheels for visibility and possibly different angles to work
--- Removed the spash shield
--- Unseated oil dip stick and fill cap
--- Drained oil and removed oil filter
--- Started process of breaking bolts loose on oil pan
--- One stud nut came loose, the other pulled the stud out: attempted to break nut from stud. 
-       Flattened threads while doing it.  Need another stud.  Figured I would track bolts down for purchase.
--- Created a template of oil pan to place bolts in proper location as I wait for tools and parts. 
--- Placed pull jacks in three locations in connection to sub-frame- two on flat areas near the back and one under front
--- Broke free the front motor mount bolt(17mm)- has a capture nut on other side.  Use PB Blaster or comparable to remove bolt
--- Advise PB Blast'ing the 4 sub-frame bolts in a break free, squirt, run it back up and then back down
--- Advised to bring down a finger width for each of the 4 17mm bolts in sub-frame corners
--- Removed the 10mm bolts from the oil pan.
--- Broke the seal on the oil pan-- not the kosher way, but used a pry bar on the oil pan edge exposed to get a gap.
-       Then used a small, flat nail-puller/scraper/pry bar to separate the pan.  Pan did not drop past the sub-frame.
--- Remember gravity and vibration are not your friends, as rust dropped past my safety glasses and into my eye.  
-       Feeling stupid.  **Waiting on face shield.
--- *Looks like next step is to pull the two front sub-frame bolts out since oil pan did not drop, and pry the sub-frame 
-       down to get the oil pan to drop.*
--- Had to remove the two front sub-frame bolts and use a prybar to remove the oil pan.
--- Scraped old gasket material from mating surface with razor blade and used a scotchpad to clean the surface.
--- Installed a new stud.  Pried sub-frame down to get oil pan past sub-frame.
--- Installed oil pan with a bottom layer of Hondabond to hold gasket in place.  Advise securing and torquing pan bolts while
-       sub-frame is lowered(8.7 ftlb/12 Nm).  Tightening in recommended pattern is advised.
--- Made sure drain plug was secure.  Installed new oil filter and added oil to check for simple leaks.
--- Reinstalled front sub-frame bolts.  Tightened all sub-frame bolts to ~78 ftlb.  Installed motor mount bolt.  
-       Checked alignment of engine mount bolt to capture nut- it is off.
--- Lowered all sub-frame bolts a finger-width down again.  Found capture nut moves, lol. While fiddling with the nut, it popped
-       out and landed in the dual fan assembly, lol. Reinstalled nut and again attempted to align bolt to captured nut.
--- Raised the front sub-frame bolts and it seemed to align for me.  Tightened the engine mount bolt to about 47 ftlbs.
--- Tightened and torqued all sub-fram bolts.
--- Started vehicle, check for pressurized leaks.
--- Installed splash shield.  Put front wheels back on, torqued them.  Removed all jack stands.  
--- Take two: Backed vehicle up on ramps.  Tailpipe separated from muffler pipe.  After knocking off all the rust on the clamps,
-       the clamps fell apart.  Chiseled off the sleeve material, installed flex pipe, and clamped it down.
--- Test drove vehicle for ~30 miles, retorqued front wheels, and no issues occurred.  Completed: Feb 16, 2024.       
-</pre>
+1. **Belt Removal:** Used a long (~14.5") 14mm closed, ratcheting wrench on the tensioner bolt to pull the serpentine belt off the power steering pump.
+2. **Access Prep:** 
+   - Remove the top black plastic radiator/fan divider (fastened by snap pins; a removal tool is advised).
+   - Remove both cooling fan brackets (`10mm`).
+   - Remove the overflow container (`10mm` / secured with a black zip tie).
+   - Remove power steering pump mounting bolts and push aside (`12mm`).
+3. **Electrical & Hardware:**
+   - Unplug the main plastic alternator connector (use caution and channel locks if needed).
+   - Remove lower, driver-side alternator mounting bolt (`12mm`) by fitting socket with fingers before ratcheting.
+   - Use a 4" extension and socket for the passenger-side, lower alternator bolt (`12mm`).
+   - Remove the final alternator bolt (`12mm`).
+4. **Extraction:** Pull the alternator out slightly, peel back the rubber boot to access the `10mm` nut, and remove it to free the alternator.
+
+### Key Specs & Notes
+- **Pulleys:** New alternator pulley is `2.5" dia.` (old was `2" dia.`).
+- **Belt Spec:** Standard belt is `69.5", 7-rib`. Research indicated belt `K070553` (`55 13/16"`) works for the AC bypass route.
+- **Replacement Hardware Part Numbers:**
+  - Power steering pump flange bolts (8x45): `95701-08045-08`
+  - Lower alternator flange bolts (8x55): `95701-08055-08`
+
+---
+
+## Project 2: Oil Pan Replacement & Exhaust Repair
+**Timeline:** February 2024 | Completed February 16, 2024
+
+### Discovery & Plan
+- **The Issue:** Investigating an oil leak revealed the oil pan had rusted completely through and required replacement. Concurrently, raising the vehicle exposed a tailpipe hanging by its rubber hanger due to severely rusted, failed clamps.
+- **Plan:** Replace oil pan, oil, filter, and fix the exhaust tailpipe.
+- **Parts & Supplies:** Oil pan, gasket material (specific RTV + paper gasket option), oil, oil filter, replacement pan bolts/studs, a piece of flex pipe, and two `2.125"` exhaust clamps.
+- **Under-carriage Assessment:** Heavy rust on the driver-side sub-frame and undercarriage. Noted that sourcing a separate winter beater vehicle may be wise.
+
+### Feb 12: Oil Pan Replacement Procedure
+- **Reference Material:** TRQ YouTube video (preferred over factory manual).
+- **Setup & Prep:**
+  - Supported vehicle with 4 jack stands in proper locations.
+  - Removed front wheels for visibility and working angles.
+  - Removed splash shield; unseated oil dipstick and fill cap.
+  - Drained oil and removed oil filter.
+- **The Sub-Frame & Pan Battle:**
+  - Placed 3 pull jacks connected to the sub-frame (two on flat rear areas, one under the front).
+  - Broke free front motor mount bolt (`17mm` with capture nut on reverse; used PB Blaster).
+  - Liberally applied PB Blaster to the four sub-frame corner bolts, backed them out slightly, ran them back up, then lowered them a finger-width each.
+  - Removed `10mm` oil pan bolts. Created a cardboard template of the oil pan to map bolt locations (noting 3 crankshaft-area bolts differ, plus two studs).
+  - **Seal Break:** Used a pry bar on the exposed oil pan edge to create a gap, then a small flat scraper/nail-puller to separate the pan.
+  - **The Face Shield Lesson:** Gravity and vibration dropped rust past safety glasses straight into the eye. *Lesson learned: Wait for the face shield next time.*
+  - **Clearing the Sub-Frame:** Because the pan wouldn't clear the sub-frame, the two front sub-frame bolts had to be completely removed to pry the sub-frame downward.
+- **Cleaning & Reassembly:**
+  - Scraped old gasket material off the mating surface with a razor blade and cleaned it with a scotchpad.
+  - Replaced a flattened stud with a new one. Pried the sub-frame down to slide the new oil pan into place.
+  - Installed pan with a bottom layer of Hondabond to hold the gasket. Torqued pan bolts while the sub-frame was still lowered to **8.7 ft-lb / 12 Nm** in the recommended pattern.
+  - Verified drain plug security, installed new oil filter, and added oil to test for leaks.
+
+### Sub-frame Realignment Adventures
+1. Reinstalled front sub-frame bolts and torqued all sub-frame bolts to **~78 ft-lb**.
+2. Attempted to reinstall the motor mount bolt, but alignment was off.
+3. Lowered sub-frame bolts a finger-width. While fiddling with the floating capture nut, it popped out and dropped straight into the dual fan assembly. 
+4. Retrieved and reinstalled the capture nut, re-aligned the bolt, raised and torqued front sub-frame bolts, and torqued the engine mount bolt to **~47 ft-lb**.
+5. Started vehicle, verified zero pressurized leaks, reinstalled splash shield, remounted front wheels, torqued them down, and removed jack stands.
+
+### Feb 12–16: Exhaust Repair & Final Checkout
+- Backed vehicle up on ramps. Knocked off the heavy rust holding the separated tailpipe and muffler pipe; old clamps completely disintegrated.
+- Chiseled off remaining sleeve material, fitted a piece of flex pipe, and clamped it down securely.
+- **Road Test:** Completed a ~30-mile test drive, re-torqued front wheels, and verified zero issues. Project successfully closed out.
