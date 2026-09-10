@@ -1,36 +1,44 @@
-February 18, 2024
+# Bicycle Rebuild & Frame Swap Log
+**Date Started:** February 18, 2024
 
-<pre>
-Checked out old trail bicycle to find largest chainring of three was bent.  
-Found new old chainring in box with bottom bracket(BB).
-Lots of research stated the BB on bicycle would accept a different BB assy: 68mm standard.
-While inspecting other areas, found front derailleur is fed from the top, around a plastic pulley and onto the fr. der.
-Not happy about that, so scrapped the project for the old bicycle and started anew.
+## Project Assessment & Pivot
+- **Initial State:** Checked out old trail bicycle; discovered the largest chainring (of three) was bent.
+- **Discovery:** Found a new-old-stock chainring in a box with a bottom bracket (BB). Researched BB compatibility (confirmed standard 68mm shell).
+- **The Design Hurdle:** Front derailleur uses a top-pull cable routing fed around a plastic pulley. 
+- **Decision:** Scrapped the frame/project on the old trail bicycle and started fresh with a new frame.
 
-Removed old components from old trail bicycle.
-Checked reuse of components.  Had new crankset and Bottom Bracket I thought would not thread in-- research.
-Ordered a 56cm frame, as that is same as my road bicycle.
-Late research suggests the headset bearing assembly is garbage, lol, uh yeah.
+---
 
-Check wheels for abnormal movement and dish.  Checked derailleurs: replace front, rear is good.  Handlebars cracked, CF.
-Order handlebars, went a bit smaller 660mm instead of 680mm, may fit better.
-Ordered threadless Origin 8 headset.  Did not take into count a change in the crown race on the fork needs changed out.
-Two hours, w/o proper tools, to remove the crown race.  Very slight damage to the fork tube, buffed out and sprayed bare metal.
-Installed Origin 8 crown race- another couple hours.  Used what I had to attempt to seat the race flush, lol, not fun w/o press.
-Beat races out of old frame, used old headset as a pusher against new race, stacked old races against the old headset, used
-  old frame as pusher, on top put old spacers on steering tube and used a 35mm socket as a hammering point-of-contact.
+## Component Inventory & Sourcing
+- **Frame:** Ordered a 56cm frame (matching road bike sizing).
+- **Headset:** Ordered a threadless Origin 8 headset *(Note: initial research suggests stock headset bearings are low quality)*.
+- **Cockpit:** Carbon handlebars were found to be cracked. Ordered a slightly narrower replacement (`660mm` down from `680mm` for a better fit).
+- **Drivetrain & Components:** 
+  - Reusing rear Deore derailleur (good condition); replacing front derailleur.
+  - Swapping powerspline setup for a new-old-stock GXP BB and FireEX crankset (`175mm` — note: consider shorter cranks in the future).
+  - Reusing old wheels (checked dish and trueness) and dual-sided pedals (clip and flat).
+  - Installing a new chain from stock with a quick-release master link (removed/installed using master link pliers rather than a chain breaker).
 
-Eventually, the new crown race seated with, luckily, no damage.
-Installed new fork to new frame.  Tapped in the steerer keeper, installed spacers, stem, and riser handlebars.
-Tightened & checked headset.  Tightened stem to handlebars. 
-Installed new old GXP BB and FireEX crankset(175mm[may want to go smaller in future]) as not happy with powerspline setup.
-Installed old two-way pedals: clip and a non-clip side for preference.
-Installed old Deore rear derailleur.  Installed new front derailleur.  Installed new chain(in my stock).
-Chain can quickly be released with a linkage tool .. not link breaker.  Squeeze the master link together with the tool to release.
-Installed rear and front wheels from old bicycle.
-Install hydraulic brake calipers.
-Check shifter and brake placement.  Replaced the shifter cable for fr. der.  Will need to replace rear der. cable.
-After placement is satisfactory, will need to adjust derailleurs, gearing, and hydraulic braking.
-Will need to install hand grips and other accessories.
-Need to test.
-</pre>
+---
+
+## Assembly & Shop Work Log
+
+### Headset & Fork Installation
+- **The Crown Race Hurdle:** Realized the new fork crown race required replacement. Without a proper bearing press, removing the old race took 2 hours and left very minor fork tube scuffs (buffed out and sealed with paint). Installing the Origin 8 crown race took another couple of hours.
+- **Improvised Press Method:** Beat races out of the old frame, used an old headset cup as a pusher against the new race, stacked old races on top, used steering tube spacers, and topped it with a `35mm socket` as a hammer strike point. 
+- *Result:* Crown race seated flush with no structural damage.
+- Installed new fork to the new frame, tapped in the starnut/steerer keeper, stacked spacers, stem, and riser bars. Torqued and verified headset play and stem bolts.
+
+### Drivetrain & Brakes
+- Installed GXP bottom bracket and FireEX 175mm crankset.
+- Installed front and rear wheels from the donor bike.
+- Mounted hydraulic brake calipers, new front derailleur, and new shift cables (rear shift cable still needs replacement).
+- Verified ergonomics of shifter and brake lever placement.
+
+---
+
+## Remaining Punch List
+- [ ] Adjust front and rear derailleurs and indexing.
+- [ ] Bleed/adjust hydraulic braking system.
+- [ ] Install hand grips and accessories.
+- [ ] Road test.
